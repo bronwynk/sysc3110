@@ -22,7 +22,7 @@ public class AddressBook {
 		book.remove(info.getName());
 	}
 	public static void main(String[] args) {
-		System.out.print("Hello World! ");
+		System.out.print("Hello World! How are you? ");
 		BuddyInfo info = new BuddyInfo();
 		info.setAddress("Home");
 		info.setName("Cat");
