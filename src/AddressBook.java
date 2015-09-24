@@ -24,7 +24,7 @@ public class AddressBook {
 	public static void main(String[] args) {
 		System.out.print("Hello World! How are you? ");
 		BuddyInfo info = new BuddyInfo();
-		info.setAddress("Home");
+		info.setAddress("Home2");
 		info.setName("Cat");
 		AddressBook address = new AddressBook();
 		address.addBuddy(info);
